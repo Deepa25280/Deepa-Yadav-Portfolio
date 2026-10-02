@@ -1,11 +1,6 @@
 # 🌐 Deepa Yadav — Personal Portfolio
 
 Welcome to my personal portfolio! This website is a showcase of my **technical skills, projects, learning journey, and interests** as a Computer Science & Engineering student.
-
-## 🚀 Live Portfolio
-
-
-
 ---
 
 ## 👩‍💻 About Me
