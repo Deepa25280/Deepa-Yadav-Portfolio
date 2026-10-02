@@ -4,7 +4,7 @@ Welcome to my personal portfolio! This website is a showcase of my **technical s
 
 ## 🚀 Live Portfolio
 
-🔗 **https://portfolio-204yz092t-deepa8.vercel.app/**
+
 
 ---
 
